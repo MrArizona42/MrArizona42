@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrArizona42
 - 👀 I’m interested mostly in Machine Learning, but also in Analytics
 - 🌱 I’m currently taking a Data Science course in Yandex Practicum
-- 💞️ I’m looking to collaborate in any type of real projects to get into the Data Science
+- 💞️ I’m looking for ...
 - 📫 How to reach me ...
 
 <!---
