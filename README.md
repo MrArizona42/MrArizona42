@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anton Muradov
-- Currently I'm working on my studied in Machine Learning and Statistics
+- Currently I'm working on my studies in Machine Learning and Statistics
 - Looking forward to start a new career in the incredible field of Data Science!
 
 <!---
