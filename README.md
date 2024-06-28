@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Anton Muradov
-- I'm just starting my career in Data Science
 
 In my repositories you can find:
 - My [study projects](https://github.com/MrArizona42/yandex_practicum) from Yandex Practicum
