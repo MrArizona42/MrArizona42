@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Anton Muradov
+👋 Hi, I’m Anton Muradov!
 
-In my repositories you can find:
-- My [study projects](https://github.com/MrArizona42/yandex_practicum) from Yandex Practicum
-- Repository with notebooks, where I build [models from scratch](https://github.com/MrArizona42/models_from_scratch) with some mathematical expalations.
-- Repository with [study projects](https://github.com/MrArizona42/statistics_karpov_course) from Basics of Statistics course
+I'm a Product Analyst at [Lofty](https://www.lofty.today/) and a Master’s student in AI at HSE. My work focuses on analytics, data science, machine learning, and AI-driven solutions.
+
+🔍 What you'll find in my repositories:
+- [FastAPI ML Backend](https://github.com/MrArizona42/pro-5-6-fastapi-MrArizona42) – A multi-processing backend for ML solutions using FastAPI.
+- [Weather Prediction Service](https://github.com/MrArizona42/python_2_pro_hw1) – A Streamlit-based web app for forecasting weather conditions.
+- [End-to-End ML Pipeline](https://github.com/MrArizona42/AI_HW1) – A complete ML workflow, from EDA to a FastAPI-powered car price prediction service.
 
 <!---
 MrArizona42/MrArizona42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
